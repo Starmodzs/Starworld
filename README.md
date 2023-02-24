@@ -1,7 +1,11 @@
 Set the build option to Release
+
 Press Ctrl + Shift + B to build the complete solution (do this until it does nothing if you build)
+
 Set the build option back to Debug
+
 Press Ctrl+ Shift + B again
+
 C# RAT with lots of features.
 
 ![image](https://user-images.githubusercontent.com/126185948/221086667-f719e1a3-0a8b-4920-9b74-c4a371aaef23.png)
